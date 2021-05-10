@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "Avi's Website"
-  spec.version       = "0.1.1"
-  spec.authors       = ["HTML5 UP", "Avi Jain"]
-  spec.email         = ["avi.j@somaiya.edu"]
+  spec.name          = "jekyll-theme-prologue"
+  spec.version       = "0.3.2"
+  spec.authors       = ["HTML5 UP", "Chris Bobbe"]
+  spec.email         = ["csbobbe@gmail.com"]
 
-  spec.summary       = %q{Personal Website of a Human Bean.}
-  spec.description   = "A personal website of a Human Bean who goes by the name Avi. Demo: google.com"
+  spec.summary       = %q{A Jekyll version of the Prologue theme by HTML5 UP.}
+  spec.description   = "A Jekyll version of the Prologue theme by HTML5 UP. Demo: https://chrisbobbe.github.io/jekyll-theme-prologue/"
   spec.homepage      = "https://github.com/chrisbobbe/jekyll-theme-prologue"
   spec.license       = "CC-BY-3.0"
 

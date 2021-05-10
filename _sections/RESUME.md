@@ -4,8 +4,10 @@ icon: fa-check
 order: 5
 ---
 
-Well, the majority of you'll are here for this! 
+Well, the majority of you'll are here for this! I hope I made you go through the whole thing 🔫
 
 So I'm gonna be nice and link it right here! :)
 
-[RESUME](https://www.google.com "Google's Homepage")
+[Not my Resume 💀](/Resume.pdf "My Resume"){:target="_blank"}
+
+[Resume 😇](https://i.imgur.com/AlRn5zU.jpg "My Resume"){:target="_blank"}
