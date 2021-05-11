@@ -56,7 +56,7 @@ slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: G-4LPXELCE24
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
