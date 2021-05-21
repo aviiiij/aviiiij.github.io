@@ -10,4 +10,4 @@ So I'm gonna be nice and link it right here! :)
 
 [Not my Resume 💀](/Resume.pdf "My Resume"){:target="_blank"}
 
-[Resume 😇](https://i.imgur.com/AlRn5zU.jpg "My Resume"){:target="_blank"}
+[Resume 😇](/turrible.png "My Resume"){:target="_blank"}

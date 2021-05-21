@@ -21,4 +21,4 @@ I love books! Here are some of my ultimate favs:
 
 This was not 10 books, but oh well :>
 
-source: [My FUnKy Awesome Brain](https://media4.s-nbcnews.com/j/newscms/2020_50/3434476/201209-pandemic-vices-main-cs_07ba7495134c8c13b1ac43b40e683d0a.fit-2000w.gif){:target="_blank"}
+source: [My FUnKy Awesome Brain](/brain.gif){:target="_blank"}
